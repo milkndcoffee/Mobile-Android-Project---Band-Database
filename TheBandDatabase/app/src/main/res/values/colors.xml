@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blueberry_200">#90caf9</color>
+    <color name="blueberry_400">#42A5F5</color>
+    <color name="blueberry_900">#0f46a1</color>
+    <color name="white">#E7E7E7</color>
+
+    <color name="charcoal">#313E50</color>
+    <color name="independence">#3A435E</color>
+    <color name="black_coral_dark">#3A435E</color>
+    <color name="black_coral">#5C6672</color>
+    <color name="black_coral_light">#6C6F7F</color>
+
+    <color name="red">#F3658D</color>
+    <color name="red_dark">#D6446D</color>
+
+    <color name="black">#0A100D</color>
+    <color name="black_light">#1E2321</color>
+    <color name="sage">#b9baa3</color>
+    <color name="timberwolf">#d6d5c9</color>
+    <color name="auburn">#a22c29</color>
+    <color name="burnt_umber">#902923</color>
+
+    <color name="xanadu">#797d62</color>
+    <color name="artichoke">#9b9b7a</color>
+    <color name="artichoke_light">#B1B19D</color>
+    <color name="khaki_web">#baa587</color>
+    <color name="tumbleweed">#d9ae94</color>
+    <color name="banana">#f1dca7</color>
+
+    <color name="dp_600">#5e35b1</color>
+    <color name="dp_200">#b39ddb</color>
+
+    <!-- color picker on materials io component card picture -->
+    <color name="mio_topbar">#6600eb</color>
+    <color name="mio_purple_outline">#9b6ef1</color>
+    <color name="mio_purple_bg">#c7aff7</color>
+
+
+    <!-- green palette -->
+    <color name="greenest">#344E41</color>
+    <color name="green">#3A5A40</color>
+    <color name="green_light">#588157</color>
+    <color name="green_lighter">#A3B18A</color>
+    <color name="off_white">#DAD7CD</color>
+
+</resources>

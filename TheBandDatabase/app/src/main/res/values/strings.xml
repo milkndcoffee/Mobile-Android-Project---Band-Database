@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">The Band/Artist Database</string>
+    <string name="details2">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Smino</item>
+        <item>SABA</item>
+        <item>IV OF SPADES</item>
+        <item>ONE OK ROCK</item>
+        <item>RINI</item>
+        <item>GIVĒON</item>
+        <item>Juicy Black</item>
+        <item>Steve Lacy</item>
+        <item>TK from Ling tosite sigure</item>
+        <item>80purppp</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>American rapper and singer born on 1991 in St. Louis, Missouri.</item>
+        <item>American rapper and record producer born in 1994 in Chicago, Illinois.</item>
+        <item>Filipino rock band from Metro,Manila Philippines that formed in 2014.</item>
+        <item>Japanese rock band formed in Tokyo, Japan in 2005.</item>
+        <item>South-East Melbourne Australian R&amp;B Artist</item>
+        <item>American R&amp;B singer and songwriter born in L.A. County, California in 1995.</item>
+        <item>Bay Area band formed in 2017 through Doozy, a Bay Area artist collective. Members include Rittybo, Lindseyshreds, Thomas Jordan, Jammy, coldwaterchris</item>
+        <item>American musician and singer born in Compton, California in 1998.</item>
+        <item>Japanese musician and singer-songwriter born in December 23,1982 in Tokyo.</item>
+        <item>Artist that made Soleil, a song that I very much enjoy.</item>
+    </string-array>
+
+    <string-array name="imgs">
+        <item>beatles</item>    <!-- src https://en.wikipedia.org/wiki/The_Beatles#/media/File:The_Fabs.JPG -->
+        <item>nirvana</item>    <!-- src https://en.wikipedia.org/wiki/Nirvana_(band)#/media/File:Nirvana_around_1992.jpg -->
+        <item>u2</item>         <!-- src https://en.wikipedia.org/wiki/U2#/media/File:Dave_and_U2_in_studio,_1982.jpg -->
+        <item>smino</item>      <!-- src https://upload.wikimedia.org/wikipedia/commons/2/2a/Smino_2016.jpg -->
+        <item>saba</item>       <!-- src https://scenestr.com.au/media/k2/items/cache/58b7e9fdd2dad4021e7fad2da0aa06f8_XL.jpg -->
+        <item>ivofspades</item> <!-- src https://asset.onemusic.ph/assetsonemusicph/media/articles/1598241391_iv-of-spades.jpg-->
+        <item>oneokrock</item>  <!-- src https://wallpapercave.com/wp/wp1852622.jpg -->
+        <item>rini</item>       <!-- src https://djbooth.net/.image/t_share/MTY5ODY3MDAwNzcwNzMzODgz/rini-interview-header.jpg -->
+        <item>giveon</item>     <!-- src https://i1.wp.com/respect-mag.com/wp-content/uploads/2020/03/image001-5.jpg?resize=1080%2C1080&ssl=1 -->
+        <item>juicyblack</item> <!-- src https://twitter.com/JU1CYBLACK/status/1318013362307883008/photo/1 -->
+        <item>stevelacyy</item> <!-- src http://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/steve-lacy_rtkhgi/steve-lacy.jpg -->
+        <item>tk</item>         <!-- src https://1.bp.blogspot.com/-sQa6B45GB44/XxpM801oNwI/AAAAAAAAK7Q/Imymt9Ws5a0IPihkN1PvGWxszsTj7YYWgCLcBGAsYHQ/w600/tk2.jpg -->
+        <item>a80purppp</item>  <!-- src https://www.silk-magazine.com/wp-content/uploads/2020/08/IMG-0570-2-1024x1015.jpg -->
+    </string-array>
+
+    <string-array name="links">
+        <item>https://en.wikipedia.org/wiki/The_Beatles</item>
+        <item>https://en.wikipedia.org/wiki/Nirvana_(band)</item>
+        <item>https://en.wikipedia.org/wiki/U2</item>
+        <item>https://en.wikipedia.org/wiki/Smino</item>
+        <item>https://www.chicagotribune.com/entertainment/music/ct-ae-pop-music-coty-1230-story.html</item>
+        <item>https://en.wikipedia.org/wiki/IV_of_Spades</item>
+        <item>https://en.wikipedia.org/wiki/One_Ok_Rock</item>
+        <item>https://djbooth.net/features/2020-01-20-rini-melbourne-breaking-into-us-market-interview</item>
+        <item>https://en.wikipedia.org/wiki/Giveon</item>
+        <item>https://twitter.com/JU1CYBLACK/</item>
+        <item>https://en.wikipedia.org/wiki/Steve_Lacy_(guitarist)</item>
+        <item>https://en.wikipedia.org/wiki/Toru_Kitajima</item>
+        <item>https://www.instagram.com/80purppp/</item>
+    </string-array>
+</resources>
